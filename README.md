@@ -19,13 +19,13 @@ Dataset Source: [Our World In Data website](https://ourworldindata.org/co2-and-g
 ## Screenshots
 
 Figure 1: Top 10 Countries with The Most Emissions
-![Top 10 Countries with The Most Emission](https://github.com/lilydnguyen/Greenhouse-Gases-Analysis/blob/main/Top%2010%20Countries%20with%20The%20Most%20Emissions.png)
+![Top 10 Countries with The Most Emission](https://github.com/lilyduongnguyen/Greenhouse-Gases-Emission-Analysis/blob/main/Top%2010%20Countries%20with%20The%20Most%20Emissions.png)
 
 Figure 2: GHGs Emissions/ Earth's Temperature over The Years
-![GHGs Emissions/ Earth's Temperature over The Years](https://github.com/lilydnguyen/Greenhouse-Gases-Analysis/blob/main/GHGs%20Emissions%20Earth's%20Temperature%20over%20The%20Years.png)
+![GHGs Emissions/ Earth's Temperature over The Years](https://github.com/lilyduongnguyen/Greenhouse-Gases-Emission-Analysis/blob/main/GHGs%20Emissions%20Earth's%20Temperature%20over%20The%20Years.png)
 
 Figure 3: Total GHGs Emissions in 100 Years 1921-2021
-![Total GHGs Emissions in 100 Years 1921-2021](https://github.com/lilydnguyen/Greenhouse-Gases-Analysis/blob/main/Total%20GHGs%20Emissions%20in%20100%20Years%201921-2021.png)
+![Total GHGs Emissions in 100 Years 1921-2021](https://github.com/lilyduongnguyen/Greenhouse-Gases-Emission-Analysis/blob/main/Total%20GHGs%20Emissions%20in%20100%20Years%201921-2021.png)
 
 
 ## Contributing
